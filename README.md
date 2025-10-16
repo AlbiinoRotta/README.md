@@ -16,7 +16,7 @@
     <img alt="Partner of Bahu LTD" src="https://img.shields.io/badge/Partner%20of%20Bahu%20LTD-00BFFF?style=for-the-badge">
   </a>
   <a href="https://komarev.com/ghpvc/?username=albiinorotta">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=albbinorotta&color=0b84fe&style=for-the-badge">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=albiinorotta&color=0b84fe&style=for-the-badge">
   </a>
 </p>
 
